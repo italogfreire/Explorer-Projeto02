@@ -10,9 +10,9 @@
     <li>Estilizações de fontes</li>
 
   </ul>
-  
+
   <br>
 
-  <img src="./Landing Pag.png" alt="page">
+  <img src="./Landing Page.png" alt="page">
 
  
